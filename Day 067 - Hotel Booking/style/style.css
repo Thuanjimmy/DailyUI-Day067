@@ -1,0 +1,42 @@
+body {
+  background-color: #30475e;
+  color: #ffffff;
+}
+
+.box {
+  width: 320px;
+  height: 600px;
+  background-color: #222831;
+  border-radius: 50px;
+  border: white 10px solid;
+  margin: 75px auto;
+  padding: 10px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.gold {
+  color: gold;
+}
+.pic {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.circle {
+  border-radius: 50%;
+  background-color: green;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+.hotel {
+  margin-bottom: 0;
+}
+.btn {
+  margin-top: 15px;
+}
